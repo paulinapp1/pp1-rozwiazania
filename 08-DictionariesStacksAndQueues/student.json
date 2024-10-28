@@ -1,0 +1,13 @@
+{
+      "name": "Alice",
+      "age": 20,
+      "gender": "female",
+      "is_international": false,
+      "subjects": [
+            "Mathematics",
+            "Computer Science",
+            "History"
+      ],
+      "email": "alice@example.com",
+      "address": "123 Main St"
+}

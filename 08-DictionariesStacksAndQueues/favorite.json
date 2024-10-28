@@ -1,0 +1,13 @@
+{
+      "title": "Mamma Mia",
+      "year": 2008,
+      "actor": {
+            "leading": "Amanda Seyfried",
+            "supporting": "Meryl Streep"
+      },
+      "oscar": false,
+      "genre": [
+            "Musical",
+            "Romance"
+      ]
+}
